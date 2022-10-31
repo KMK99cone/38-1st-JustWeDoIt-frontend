@@ -148,3 +148,11 @@
 ![Search](https://user-images.githubusercontent.com/70960594/198539983-01ee0550-00eb-4a9f-ab5b-fd2c4a6c6ed6.gif)
   
 </div>
+
+
+
+###구현 사항
+1. nav footer 제외한 main 페이지 
+메인페이지 레이아웃과 구성을 맡았습니다
+2. signup signin 페이지 작업
+input관련으로 따로 컴포넌트화하여 작업하였습니다.
